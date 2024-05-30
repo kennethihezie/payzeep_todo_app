@@ -1,16 +1,9 @@
 # todo_app
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="404" alt="Screenshot 2024-05-30 at 17 00 35" src="https://github.com/kennethihezie/payzeep_todo_app/assets/104928043/208304bc-777e-4028-b261-8b9ba4d0b88b">
+<img width="399" alt="Screenshot 2024-05-30 at 17 00 29" src="https://github.com/kennethihezie/payzeep_todo_app/assets/104928043/350ddded-41d4-40b8-82e9-87fb5d0f767e">
+<img width="390" alt="Screenshot 2024-05-30 at 17 00 21" src="https://github.com/kennethihezie/payzeep_todo_app/assets/104928043/8ef8765f-8482-47ca-95cf-b8d369715c96">
+<img width="402" alt="Screenshot 2024-05-30 at 17 00 13" src="https://github.com/kennethihezie/payzeep_todo_app/assets/104928043/00a80542-5ae5-4d1c-86c7-17acde5adc32">
+<img width="409" alt="Screenshot 2024-05-30 at 16 59 43" src="https://github.com/kennethihezie/payzeep_todo_app/assets/104928043/68686a06-a67a-483a-ae3f-f6a31f93185a">
+<img width="413" alt="Screenshot 2024-05-30 at 16 59 35" src="https://github.com/kennethihezie/payzeep_todo_app/assets/104928043/ca866a72-f36c-458a-b213-d5ffd8ee281f">
